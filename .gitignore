@@ -4,3 +4,6 @@ data/*.jsonl
 data/metadata.json
 data/layouts/
 .env
+TARGET.md
+
+papers/
